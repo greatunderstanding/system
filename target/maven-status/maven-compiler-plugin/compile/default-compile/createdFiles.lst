@@ -1,0 +1,9 @@
+com/cmu/util/Utilities.class
+com/cmu/properties/Config.class
+com/cmu/rm/ReplicationManager.class
+com/cmu/serverreplica/Server.class
+com/cmu/lfd/LocalFaultDetector$GFDHeartbeatTask.class
+com/cmu/lfd/LocalFaultDetector$HeartbeatTask.class
+com/cmu/gfd/GlobalFaultDetector.class
+com/cmu/client/SimpleClient.class
+com/cmu/lfd/LocalFaultDetector.class
